@@ -1,0 +1,77 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-chrome-icon-active {
+    width: 16px;
+    height: 15px;
+    background-position: -9px -9px;
+}
+
+.sprite-chrome-icon-disabled {
+    width: 16px;
+    height: 15px;
+    background-position: -9px -42px;
+}
+
+.sprite-explorer-icon-active {
+    width: 16px;
+    height: 15px;
+    background-position: -9px -75px;
+}
+
+.sprite-explorer-icon-disabled {
+    width: 16px;
+    height: 15px;
+    background-position: -9px -108px;
+}
+
+.sprite-firefox-icon-active {
+    width: 15px;
+    height: 15px;
+    background-position: -9px -141px;
+}
+
+.sprite-firefox-icon-disabled {
+    width: 15px;
+    height: 15px;
+    background-position: -9px -174px;
+}
+
+.sprite-lang-icon-1 {
+    width: 16px;
+    height: 14px;
+    background-position: -9px -207px;
+}
+
+.sprite-lang-icon-2 {
+    width: 16px;
+    height: 14px;
+    background-position: -9px -239px;
+}
+
+.sprite-lang-icon-3 {
+    width: 16px;
+    height: 14px;
+    background-position: -9px -271px;
+}
+
+.sprite-lang-icon-4 {
+    width: 16px;
+    height: 14px;
+    background-position: -9px -303px;
+}
+
+.sprite-safari-icon-active {
+    width: 14px;
+    height: 16px;
+    background-position: -9px -335px;
+}
+
+.sprite-safari-icon-disabled {
+    width: 14px;
+    height: 16px;
+    background-position: -9px -369px;
+}
